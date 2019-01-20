@@ -1,0 +1,7 @@
+name: EP_05
+version: ${project.version}
+main: com.tscforum.ep5.ep_05.EP_05
+commands:
+  healme:
+    description: Healing command
+    usage: /healme

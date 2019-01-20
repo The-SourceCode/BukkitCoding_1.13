@@ -1,0 +1,6 @@
+name: Mcdev
+version: ${project.version}
+main: com.tscforum.mcdev.mcdev.Mcdev
+authors: [Daeshan]
+description: A pluginj using MC Dev for IntelliJ
+website: www.tscforum.com

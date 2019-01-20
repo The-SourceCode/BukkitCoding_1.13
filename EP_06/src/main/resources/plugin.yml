@@ -1,0 +1,3 @@
+name: EP_06
+version: ${project.version}
+main: com.tscforum.ep6.ep_06.EP_06

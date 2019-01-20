@@ -1,0 +1,9 @@
+name: EP3
+version: ${project.version}
+main: com.tscforum.ep3.ep3.EP3
+authors: [TheSourceCode]
+
+commands:
+  test:
+    description: test
+    usage: /test

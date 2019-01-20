@@ -1,0 +1,4 @@
+name: EP_13
+version: ${project.version}
+main: com.tscforum.ep_13.EP_13
+api-version: 1.13
